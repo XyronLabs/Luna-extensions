@@ -1,4 +1,8 @@
 [
-    "testextension",
-    "anotherextension"
+    "configuration",
+    "dummy",
+    "math/utils",
+    "math/vector",
+    "physics/particle",
+    "simplemap"
 ]
