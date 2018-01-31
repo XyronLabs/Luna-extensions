@@ -2,6 +2,5 @@
     "name": "Dummy extension",
     "description": "Just a dummy extension for testing",
     "version": "1.0.0",
-    "path": "/dummy",
-    "files": []
+    "path": "/dummy"
 }

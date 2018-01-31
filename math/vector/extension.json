@@ -2,6 +2,5 @@
     "name": "Vector",
     "description": "Vector class",
     "version": "1.0.0",
-    "path": "/math/vector",
-    "files": []
+    "path": "/math/vector"
 }

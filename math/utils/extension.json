@@ -2,6 +2,5 @@
     "name": "Math utils",
     "description": "Math utilities",
     "version": "1.0.0",
-    "path": "/math/utils",
-    "files": []
+    "path": "/math/utils"
 }

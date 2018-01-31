@@ -5,6 +5,5 @@
     "path": "/physics/particle",
     "dependencies": [
         "math/vector"
-    ],
-    "files": []
+    ]
 }

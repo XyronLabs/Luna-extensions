@@ -2,6 +2,5 @@
     "name": "Configuration",
     "description": "Simple configuration handler",
     "version": "1.0.0",
-    "path": "/configuration",
-    "files": []
+    "path": "/configuration"
 }
