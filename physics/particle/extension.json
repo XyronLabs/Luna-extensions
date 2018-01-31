@@ -4,6 +4,6 @@
     "version": "1.0.0",
     "path": "/physics/particle",
     "dependencies": [
-        "math/vector"
+        "/math/vector"
     ]
 }
