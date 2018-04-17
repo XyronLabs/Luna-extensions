@@ -4,5 +4,6 @@
     "math/utils",
     "math/vector",
     "physics/particle",
-    "simplemap"
+    "simplemap",
+    "fps_counter"
 ]
