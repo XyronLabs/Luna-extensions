@@ -1,0 +1,6 @@
+{
+    "name": "FPS counter",
+    "description": "Simple FPS counter",
+    "version": "1.0.0",
+    "path": "/fps_counter"
+}
